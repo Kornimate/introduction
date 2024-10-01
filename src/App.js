@@ -14,7 +14,7 @@ function App() {
         <Title text="Introduction - Kornidesz Máté" />
         <img src={construction} className="App-logo" alt="logo" />
         <p className="construction-text">
-          This site is currently under construction, the time until the new site is created, please use my GitHub profile and CV as information source about me.
+          This site is currently under construction, by the time the new site is created, please use my GitHub profile and CV as information source about me.
         </p>
       </header>
       <main className='App-header'>
