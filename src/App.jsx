@@ -709,7 +709,7 @@ function Contact() {
               LinkedIn
             </span>
             <a
-              href="https://www.linkedin.com/in/kornidesz-mate"
+              href="https://www.linkedin.com/in/kornidesz-máté-833633289"
               target="_blank"
               rel="noreferrer"
               className="text-xs text-indigo-300 hover:text-indigo-200"
