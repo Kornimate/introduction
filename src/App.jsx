@@ -284,8 +284,8 @@ function Hero() {
           >
             I&apos;m Kornidesz Máté, a Hungarian software engineer based in
             Aarhus, Denmark. I build reliable, performant systems with the stack
-            — .NET from desktop applications to web. I'&apos;m also an AI
-            engineer focused on utilizing LLMs, and up-to-date with newest
+            — .NET from desktop applications to web. I&apos;m also an AI
+            engineer focused on utilizing LLMs, and I try to be up-to-date with newest
             methods and technologies.
           </motion.p>
 
